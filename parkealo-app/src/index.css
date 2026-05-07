@@ -1,0 +1,2 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #D6DCE8; font-family: 'Nunito', system-ui, sans-serif; }
